@@ -18,8 +18,8 @@
 const Suchismita = {
   languages: ["C++", "Python", "Java", "C"],
   ai_and_data: ["TensorFlow", "PyTorch", "Keras", "Scikit-learn", "Pandas"],
-  web_and_db: ["FastAPI", "PostgreSQL", "Django"],
-  interests: ["Deep Learning", "Competitive Programming", "Data Science", "Distributed Systems"]
+  web_and_db: ["FastAPI", "MySQL", "React", "Django"],
+  interests: ["Deep Learning", "Competitive Programming", "Data Science"]
 }
 ```
 ---
@@ -36,6 +36,11 @@ const Suchismita = {
 * Engineered a robust machine learning pipeline utilizing XGBoost and Neural Networks to predict traffic accident severity based on environmental and situational features.
 * Implemented SMOTE (Synthetic Minority Over-sampling Technique) and class weighting strategies to successfully resolve severe dataset imbalance and optimize model reliability.
 * Extracted actionable data science insights from complex situational datasets to support data-driven decision-making for urban planning and proactive road safety initiatives.
+### 🚦 Traffic Accident Severity Prediction
+- Developed a machine learning model to predict the severity of traffic accidents based on various environmental and situational data points.
+- Aimed at leveraging data science to provide actionable insights for road safety and urban planning improvements.
+
+🔗 https://github.com/suchismitab0511/Traffic-Accident-Severity-Prediction
 
 ---
 
@@ -49,6 +54,6 @@ const Suchismita = {
 
 ## 🎯 Beyond Coding
 
-- 🌱 Active member of **AASRA**, collaborating on community outreach to provide educational guidance and support for young, bright minds in the local area. 
+- 🌱 Active member of **AASRA**, collaborating on community outreach to provide educational guidance and support for young, bright minds.
 - ♟️ Avid **chess** player, always appreciative of a game that challenges strategic and tactical thinking.
 - 📊 Deeply interested in core **Data Science** concepts, particularly how predictive modeling and analytics can be applied to solve complex real-world challenges.
