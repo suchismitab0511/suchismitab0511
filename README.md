@@ -18,8 +18,8 @@
 const Suchismita = {
   languages: ["C++", "Python", "Java", "C"],
   ai_and_data: ["TensorFlow", "PyTorch", "Keras", "Scikit-learn", "Pandas"],
-  web_and_db: ["FastAPI", "PostgreSQL", "Django"],
-  interests: ["Deep Learning", "Competitive Programming", "Data Science", "Distributed Systems"]
+  web_and_db: ["FastAPI", "MySQL", "React", "Django"],
+  interests: ["Deep Learning", "Competitive Programming", "Data Science"]
 }
 ```
 ---
@@ -38,8 +38,6 @@ const Suchismita = {
 
 🔗 https://github.com/suchismitab0511/Traffic-Accident-Severity-Prediction
 
-<hr width="100%">
-
 ---
 
 ## 📚 Widgets That Define My Work
@@ -52,6 +50,6 @@ const Suchismita = {
 
 ## 🎯 Beyond Coding
 
-- 🌱 Active member of **AASRA**, collaborating on community outreach to provide educational guidance and support for young, bright minds in the local area. 
+- 🌱 Active member of **AASRA**, collaborating on community outreach to provide educational guidance and support for young, bright minds.
 - ♟️ Avid **chess** player, always appreciative of a game that challenges strategic and tactical thinking.
 - 📊 Deeply interested in core **Data Science** concepts, particularly how predictive modeling and analytics can be applied to solve complex real-world challenges.
